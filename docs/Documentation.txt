@@ -1,0 +1,2 @@
+1. Install node js 18.16.1 LTS.
+2. Execute npm run start to run the project.
